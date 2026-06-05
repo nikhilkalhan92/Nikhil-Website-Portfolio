@@ -1,0 +1,10 @@
+{
+  "name": "Nikhil Portfolio",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:0-ubuntu-24.04",
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  },
+  "remoteUser": "vscode"
+}
